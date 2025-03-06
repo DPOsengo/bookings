@@ -1,0 +1,1 @@
+    @livewire('welcome-message')
